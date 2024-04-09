@@ -1,4 +1,4 @@
-const int buzzerPin = 8; // Change this to the actual pin where your buzzer is connected
+const int buzzerPin = 13; // Change this to the actual pin where your buzzer is connected
 bool buzzerOn = false;   // Flag to track the state of the buzzer
 
 void setup() {
